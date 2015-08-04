@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: edu.buaa.gephi.positionManager
+OpenIDE-Module-Localizing-Bundle: edu/buaa/gephi/positionManager/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
